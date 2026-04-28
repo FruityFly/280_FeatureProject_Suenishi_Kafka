@@ -1296,3 +1296,1253 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.28-05.45.41:367][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.28-05.45.41:367][304]AssetCheck: /Game/HSRFinal/Effects/GameEffect Validating asset
 [2026.04.28-05.45.41:932][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.28-05.47.22:402][598]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/280/280_FeatureProject_Suenishi_Kafka/MyProject/" -install="C:/Users/katme/Downloads/270/FeatureProjectCheckIn_Suenishi_Kafka.zip"" -nocompile -nocompileuat ]
+[2026.04.28-05.47.22:411][598]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-05.47.22:474][598]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.04.28-05.47.22:496][598]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.04.28-05.47.22:592][600]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.04.28-05.47.22:602][600]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/280/280_FeatureProject_Suenishi_Kafka/MyProject/ -install=C:/Users/katme/Downloads/270/FeatureProjectCheckIn_Suenishi_Kafka.zip -nocompile -nocompileuat
+[2026.04.28-05.47.22:687][602]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.04.28-05.47.22:882][608]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 0.19 s.
+[2026.04.28-05.47.22:967][613]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.04.28-05.47.23:210][628]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.04.28-05.47.23:210][628]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.04.28-05.47.23:210][628]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\280\280_FeatureProject_Suenishi_Kafka\MyProject
+[2026.04.28-05.47.23:210][628]UATHelper: Zip Project Task (Windows (Editor)): Install directory: C:/Users/katme/Downloads/270/FeatureProjectCheckIn_Suenishi_Kafka.zip
+[2026.04.28-05.47.23:210][628]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.04.28-05.47.24:680][716]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.04.28-05.47.24:680][716]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.04.28-05.47.24:680][716]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 2s
+[2026.04.28-05.47.24:680][716]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.04.28-05.47.24:725][718]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-05.49.20:728][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2863.315186
+[2026.04.28-05.49.21:726][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-05.49.21:726][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2863.979736, Update Interval: 347.901855
+[2026.04.28-05.55.44:116][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3246.703857
+[2026.04.28-05.55.45:115][351]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-05.55.45:115][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3247.368408, Update Interval: 323.443695
+[2026.04.28-06.01.55:988][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3618.581787
+[2026.04.28-06.01.56:386][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-06.01.56:386][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3618.729492, Update Interval: 300.959503
+[2026.04.28-06.02.31:141][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.28-06.02.31:144][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.051
+[2026.04.28-06.02.31:145][612]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HSRFinal/Attributes/AC_AbilitySystem] ([2] browsable assets)...
+[2026.04.28-06.02.31:145][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/HSRFinal/Attributes/AC_AbilitySystem]
+[2026.04.28-06.02.31:187][612]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HSRFinal/Attributes/AC_AbilitySystem_Auto4
+[2026.04.28-06.02.31:187][612]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/AC_AbilitySystem_Auto473D876AE4557BD911E966BB85C418C2C.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/Autosaves/Game/HSRFinal/Attributes/AC_AbilitySystem_Auto4.uasset'
+[2026.04.28-06.02.31:188][612]LogFileHelpers: Auto-saving content packages took 0.043
+[2026.04.28-06.03.20:459][634]LogDerivedDataCache: C:/Users/katme/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.28-06.07.32:380][897]LogEditorTransaction: Undo Rename Variable
+[2026.04.28-06.07.33:790][971]LogEditorTransaction: Undo Add Local Variable
+[2026.04.28-06.07.49:755][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3972.349365
+[2026.04.28-06.07.50:754][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-06.07.50:754][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3973.016113, Update Interval: 305.456696
+[2026.04.28-06.12.50:394][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.28-06.12.51:915][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-06.12.51:976][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HSRFinal/Attributes/AC_AbilitySystem] ([2] browsable assets)...
+[2026.04.28-06.12.51:976][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/HSRFinal/Attributes/AC_AbilitySystem]
+[2026.04.28-06.12.51:992][958]LogSavePackage: Moving output files for package: /Game/HSRFinal/Attributes/AC_AbilitySystem
+[2026.04.28-06.12.51:993][958]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/AC_AbilitySystem26F429D04E7CE5A9668E2A833B36DC97.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/HSRFinal/Attributes/AC_AbilitySystem.uasset'
+[2026.04.28-06.12.52:003][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.380 ms (total: 561.422 ms)
+[2026.04.28-06.12.52:070][958]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-06.12.52:071][958]LogContentValidation: Enabled validators:
+[2026.04.28-06.12.52:071][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-06.12.52:071][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-06.12.52:071][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-06.12.52:071][958]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-06.12.52:071][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-06.12.52:071][958]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-06.12.52:071][958]AssetCheck: /Game/HSRFinal/Attributes/AC_AbilitySystem Validating asset
+[2026.04.28-06.13.04:631][703]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-06.13.04:679][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.28-06.13.04:969][703]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter_C
+[2026.04.28-06.13.04:969][703]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter_C
+[2026.04.28-06.13.04:981][703]LogActorFactory: Actor Factory spawned Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter as actor: BP_TBCharacter_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TBCharacter_C_0
+[2026.04.28-06.13.04:983][703]LogActorFactory: Actor Factory spawned Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter as actor: BP_TBCharacter_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TBCharacter_C_0
+[2026.04.28-06.13.04:992][704]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.28-06.13.05:319][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.28-06.13.05:322][715]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.04.28-06.13.05:327][715]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter_C
+[2026.04.28-06.13.05:327][715]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter_C
+[2026.04.28-06.13.05:336][715]LogActorFactory: Actor Factory spawned Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter as actor: BP_TBCharacter_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391
+[2026.04.28-06.13.05:337][715]LogActorFactory: Actor Factory spawned Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter as actor: BP_TBCharacter_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391
+[2026.04.28-06.13.05:566][717]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.28-06.13.05:666][718]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.28-06.13.25:443][323]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter
+[2026.04.28-06.13.25:443][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.28-06.13.25:500][323]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-06.13.50:916][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4333.504395
+[2026.04.28-06.13.51:082][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-06.13.51:082][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4333.654785, Update Interval: 359.963379
+[2026.04.28-06.16.17:469][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.28-06.16.18:353][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-06.16.18:416][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HSRFinal/Attributes/AC_AbilitySystem] ([2] browsable assets)...
+[2026.04.28-06.16.18:416][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/HSRFinal/Attributes/AC_AbilitySystem]
+[2026.04.28-06.16.18:450][457]LogSavePackage: Moving output files for package: /Game/HSRFinal/Attributes/AC_AbilitySystem
+[2026.04.28-06.16.18:451][457]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/AC_AbilitySystem4EEF388E45D4438CF21E08AFED88F4AD.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/HSRFinal/Attributes/AC_AbilitySystem.uasset'
+[2026.04.28-06.16.18:462][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.175 ms (total: 670.597 ms)
+[2026.04.28-06.16.18:524][457]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-06.16.18:524][457]LogContentValidation: Enabled validators:
+[2026.04.28-06.16.18:524][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-06.16.18:524][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-06.16.18:524][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-06.16.18:524][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-06.16.18:524][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-06.16.18:524][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-06.16.18:524][457]AssetCheck: /Game/HSRFinal/Attributes/AC_AbilitySystem Validating asset
+[2026.04.28-06.19.15:269][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.28-06.19.16:849][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-06.19.16:918][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HSRFinal/TBPlayer/BP_TBCharacter] ([2] browsable assets)...
+[2026.04.28-06.19.16:965][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter]
+[2026.04.28-06.19.16:965][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/HSRFinal/TBPlayer/BP_TBCharacter]
+[2026.04.28-06.19.16:965][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HSRFinal/TBPlayer/BP_TBCharacter" FILE="../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/HSRFinal/TBPlayer/BP_TBCharacter.uasset" SILENT=true
+[2026.04.28-06.19.17:009][662]LogSavePackage: Moving output files for package: /Game/HSRFinal/TBPlayer/BP_TBCharacter
+[2026.04.28-06.19.17:009][662]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/BP_TBCharacterF2E8D37D465BC837E1CC6F98F5B2D48C.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/HSRFinal/TBPlayer/BP_TBCharacter.uasset'
+[2026.04.28-06.19.17:026][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.306 ms (total: 847.904 ms)
+[2026.04.28-06.19.17:092][662]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-06.19.17:092][662]LogContentValidation: Enabled validators:
+[2026.04.28-06.19.17:092][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-06.19.17:092][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-06.19.17:092][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-06.19.17:092][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-06.19.17:092][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-06.19.17:092][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-06.19.17:092][662]AssetCheck: /Game/HSRFinal/TBPlayer/BP_TBCharacter Validating asset
+[2026.04.28-06.19.17:117][662]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-06.19.33:681][243]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.28-06.19.33:700][243]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.28-06.19.33:700][243]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.28-06.19.33:704][243]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 2.856 ms
+[2026.04.28-06.19.33:706][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-06.19.33:715][243]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.04.28-06.19.33:715][243]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.04.28-06.19.33:715][243]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.28-06.19.33:719][243]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.28-06.19.33:719][243]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 436 us
+[2026.04.28-06.19.33:721][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004306s)
+[2026.04.28-06.19.33:721][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004367s)
+[2026.04.28-06.19.33:752][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.28-06.19.33:757][243]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.28-06.19.33:758][243]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.28-06.19.33:758][243]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.28-06.19.33:758][243]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.28-06.19.33:759][243]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.28-06.19.33:760][243]LogWorldPartition: Display: WorldPartition initialize took 1.388 ms (total: 95.560 ms)
+[2026.04.28-06.19.33:760][243]LogPlayLevel: PIE: World Init took: (0.003443s)
+[2026.04.28-06.19.33:761][243]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-06.19.33:761][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-06.19.33:761][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-06.19.33:761][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-06.19.33:761][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-06.19.33:761][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-06.19.33:763][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-06.19.33:782][243]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.28-06.19.33:782][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-06.19.33:782][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-06.19.33:782][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-06.19.33:783][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.04.28-06.19.33:783][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.04.28-06.19.33:784][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.28-06.19.33:784][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.04.28-06.19.33:784][243]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.28-06.19.33:784][243]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.04.28-06.19.33:784][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.28-06.19.33:791][243]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.28-06.19.33:795][243]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.27-23.19.33
+[2026.04.28-06.19.33:801][243]LogWorld: Bringing up level for play took: 0.009048
+[2026.04.28-06.19.33:804][243]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.04.28-06.19.33:819][243]PIE: Server logged in
+[2026.04.28-06.19.33:821][243]PIE: Play in editor total start time 0.123 seconds.
+[2026.04.28-06.19.33:827][243]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.33:868][244]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.33:890][244]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.28-06.19.33:926][245]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.33:953][246]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.33:969][247]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.33:986][248]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:002][249]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:020][250]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:036][251]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:052][252]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:070][253]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:086][254]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:102][255]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:120][256]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:136][257]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:153][258]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:170][259]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:186][260]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:203][261]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:220][262]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:236][263]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:252][264]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:269][265]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:286][266]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:303][267]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:320][268]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:337][269]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:352][270]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:370][271]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:386][272]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:403][273]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:420][274]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:436][275]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:452][276]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:469][277]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:486][278]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:502][279]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:520][280]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:536][281]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:553][282]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:569][283]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:586][284]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:602][285]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:620][286]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:636][287]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:652][288]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:669][289]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:686][290]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:702][291]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:720][292]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:754][293]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:770][294]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:786][295]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:803][296]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:820][297]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:836][298]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:853][299]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:869][300]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:886][301]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:903][302]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:919][303]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:936][304]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:953][305]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:970][306]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.34:986][307]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:003][308]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:020][309]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:036][310]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:054][311]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:069][312]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:086][313]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:103][314]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:119][315]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:136][316]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:153][317]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:170][318]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:186][319]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:203][320]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:219][321]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:236][322]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:253][323]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:269][324]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:286][325]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:303][326]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:320][327]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:336][328]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:353][329]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:370][330]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:386][331]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:403][332]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:420][333]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:436][334]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:453][335]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:470][336]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:485][337]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:504][338]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:520][339]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:536][340]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:562][341]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:570][342]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:586][343]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:603][344]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:620][345]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:637][346]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:654][347]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:670][348]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:687][349]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:703][350]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:720][351]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:736][352]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:753][353]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:770][354]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:787][355]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:803][356]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:820][357]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:837][358]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:853][359]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:870][360]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:887][361]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:903][362]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:921][363]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:937][364]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:953][365]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:970][366]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.35:987][367]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:003][368]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:020][369]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:036][370]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:054][371]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:070][372]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:086][373]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:103][374]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:120][375]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:136][376]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:154][377]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:170][378]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:187][379]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:204][380]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:220][381]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:236][382]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:254][383]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:271][384]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:287][385]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:304][386]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:322][387]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:337][388]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:354][389]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:370][390]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:387][391]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:404][392]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:420][393]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:437][394]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:453][395]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:470][396]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:486][397]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:504][398]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:520][399]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:536][400]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:554][401]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:570][402]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:587][403]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:603][404]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:620][405]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:637][406]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:654][407]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:670][408]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:687][409]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:703][410]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:721][411]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:736][412]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:753][413]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:770][414]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:786][415]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:803][416]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:820][417]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:837][418]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:853][419]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:870][420]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:887][421]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:904][422]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:921][423]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:936][424]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:953][425]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:970][426]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.36:986][427]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:004][428]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:020][429]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:036][430]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:053][431]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:070][432]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:086][433]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:104][434]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:121][435]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:137][436]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:154][437]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:170][438]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:187][439]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:205][440]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:220][441]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:237][442]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:254][443]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:271][444]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:287][445]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:304][446]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:321][447]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:337][448]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:355][449]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:371][450]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:387][451]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:403][452]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:420][453]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:437][454]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:454][455]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:470][456]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:486][457]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:504][458]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:520][459]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:537][460]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:554][461]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:570][462]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:587][463]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:604][464]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:620][465]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:637][466]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:654][467]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:671][468]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:687][469]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:703][470]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:720][471]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:736][472]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:754][473]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:770][474]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:786][475]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:804][476]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:820][477]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:836][478]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:853][479]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:870][480]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:886][481]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:904][482]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:920][483]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:937][484]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:953][485]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:970][486]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.37:986][487]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:004][488]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:020][489]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:037][490]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:053][491]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:070][492]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:087][493]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:103][494]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:120][495]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:136][496]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:154][497]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:171][498]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.19.38:214][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-06.19.38:214][498]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.28-06.19.38:214][498]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.19.38:215][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.19.38:215][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.28-06.19.38:220][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-06.19.38:224][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.19.38:253][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-06.19.38:253][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.28-06.19.38:253][498]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.04.28-06.19.38:256][498]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.04.28-06.19.38:263][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.28-06.19.38:376][499]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.04.28-06.20.22:161][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4724.789062
+[2026.04.28-06.20.22:436][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.28-06.20.22:436][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4725.044434, Update Interval: 300.417480
+[2026.04.28-06.21.01:175][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.28-06.21.01:461][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.28-06.21.01:473][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/LE/MZ3VLA9U7MBNZJT9C7KW72_Auto5
+[2026.04.28-06.21.01:474][ 40]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/MZ3VLA9U7MBNZJT9C7KW72_Auto5272F314349C04220929A919DC0B046BC.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/LE/MZ3VLA9U7MBNZJT9C7KW72_Auto5.uasset'
+[2026.04.28-06.21.01:474][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.042
+[2026.04.28-06.21.01:474][ 40]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.04.28-06.21.01:474][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HSRFinal/TBPlayer/BP_TBCharacter] ([2] browsable assets)...
+[2026.04.28-06.21.01:482][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HSRFinal/TBPlayer/BP_TBCharacter.BP_TBCharacter]
+[2026.04.28-06.21.01:482][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/HSRFinal/TBPlayer/BP_TBCharacter]
+[2026.04.28-06.21.01:501][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HSRFinal/TBPlayer/BP_TBCharacter_Auto5
+[2026.04.28-06.21.01:501][ 40]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/BP_TBCharacter_Auto55B399EA54DA1950A8656089D8078A30F.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/Autosaves/Game/HSRFinal/TBPlayer/BP_TBCharacter_Auto5.uasset'
+[2026.04.28-06.21.01:502][ 40]LogFileHelpers: Auto-saving content packages took 0.028
+[2026.04.28-06.21.04:345][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-06.21.04:409][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HSRFinal/TBPlayer/BP_TBCharacter] ([2] browsable assets)...
+[2026.04.28-06.21.04:409][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/HSRFinal/TBPlayer/BP_TBCharacter]
+[2026.04.28-06.21.04:409][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HSRFinal/TBPlayer/BP_TBCharacter" FILE="../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/HSRFinal/TBPlayer/BP_TBCharacter.uasset" SILENT=true
+[2026.04.28-06.21.04:418][201]LogSavePackage: Moving output files for package: /Game/HSRFinal/TBPlayer/BP_TBCharacter
+[2026.04.28-06.21.04:419][201]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/BP_TBCharacter7A63FC6B4537003051E1AEBD4094CB25.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/HSRFinal/TBPlayer/BP_TBCharacter.uasset'
+[2026.04.28-06.21.04:432][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.032 ms (total: 933.936 ms)
+[2026.04.28-06.21.04:499][201]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-06.21.04:499][201]LogContentValidation: Enabled validators:
+[2026.04.28-06.21.04:499][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-06.21.04:499][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-06.21.04:499][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-06.21.04:499][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-06.21.04:499][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-06.21.04:499][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-06.21.04:500][201]AssetCheck: /Game/HSRFinal/TBPlayer/BP_TBCharacter Validating asset
+[2026.04.28-06.21.14:093][768]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.28-06.21.14:096][768]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.28-06.21.14:096][768]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.28-06.21.14:097][768]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 575 us (total: 3.432 ms)
+[2026.04.28-06.21.14:097][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-06.21.14:097][768]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.28-06.21.14:101][768]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.28-06.21.14:101][768]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 455 us (total: 891 us)
+[2026.04.28-06.21.14:101][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003287s)
+[2026.04.28-06.21.14:101][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.003315s)
+[2026.04.28-06.21.14:130][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.28-06.21.14:133][768]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.28-06.21.14:135][768]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.28-06.21.14:135][768]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.28-06.21.14:135][768]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.28-06.21.14:135][768]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.28-06.21.14:135][768]LogWorldPartition: Display: WorldPartition initialize took 847 us (total: 96.407 ms)
+[2026.04.28-06.21.14:135][768]LogPlayLevel: PIE: World Init took: (0.002587s)
+[2026.04.28-06.21.14:137][768]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-06.21.14:137][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-06.21.14:137][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-06.21.14:137][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-06.21.14:137][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-06.21.14:137][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-06.21.14:139][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-06.21.14:156][768]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.28-06.21.14:156][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-06.21.14:156][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-06.21.14:156][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-06.21.14:157][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.28-06.21.14:157][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.28-06.21.14:159][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.28-06.21.14:159][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.28-06.21.14:159][768]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.28-06.21.14:159][768]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.04.28-06.21.14:159][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.28-06.21.14:164][768]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.28-06.21.14:166][768]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.27-23.21.14
+[2026.04.28-06.21.14:166][768]LogWorld: Bringing up level for play took: 0.002896
+[2026.04.28-06.21.14:169][768]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.04.28-06.21.14:173][768]PIE: Server logged in
+[2026.04.28-06.21.14:175][768]PIE: Play in editor total start time 0.078 seconds.
+[2026.04.28-06.21.14:176][768]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:195][769]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:220][769]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.28-06.21.14:251][770]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:280][771]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:295][772]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:313][773]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:330][774]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:346][775]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:363][776]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:379][777]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:396][778]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:413][779]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:430][780]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:446][781]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:462][782]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:479][783]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:496][784]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:512][785]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:529][786]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:546][787]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:562][788]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:579][789]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:596][790]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:612][791]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:629][792]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:646][793]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:662][794]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:679][795]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:696][796]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:713][797]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:730][798]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:746][799]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:763][800]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:780][801]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:796][802]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:813][803]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:829][804]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:846][805]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:863][806]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:879][807]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:898][808]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:913][809]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:929][810]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:945][811]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:963][812]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:979][813]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.14:996][814]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:013][815]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:030][816]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:046][817]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:063][818]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:080][819]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:105][820]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:122][821]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:138][822]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:155][823]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:172][824]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:188][825]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:204][826]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:222][827]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:238][828]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:254][829]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:272][830]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:288][831]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:304][832]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:322][833]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:338][834]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:354][835]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:372][836]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:387][837]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:404][838]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:422][839]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:438][840]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:454][841]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:472][842]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:488][843]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:504][844]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:522][845]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:538][846]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:555][847]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:571][848]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:588][849]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:605][850]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:621][851]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:639][852]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:655][853]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:672][854]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:688][855]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:706][856]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:722][857]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:738][858]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:755][859]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:772][860]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:789][861]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:805][862]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:822][863]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:839][864]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:856][865]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:872][866]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:888][867]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:904][868]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:922][869]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:938][870]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:955][871]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:972][872]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.15:988][873]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:004][874]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:021][875]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:038][876]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:056][877]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:072][878]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:088][879]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:105][880]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:122][881]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:139][882]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:155][883]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:172][884]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:189][885]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:205][886]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:222][887]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:238][888]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:255][889]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:272][890]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:289][891]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:305][892]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:321][893]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:338][894]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:355][895]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:372][896]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:388][897]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:405][898]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:421][899]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:437][900]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:454][901]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:472][902]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:489][903]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:505][904]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:521][905]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:538][906]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:554][907]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:572][908]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:589][909]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:605][910]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:621][911]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:639][912]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:654][913]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:672][914]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:688][915]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:705][916]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:722][917]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:738][918]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:755][919]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:771][920]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:788][921]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:805][922]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:822][923]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:838][924]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:855][925]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:870][926]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:888][927]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:905][928]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:921][929]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:938][930]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:955][931]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:971][932]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.16:988][933]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:005][934]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:022][935]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:038][936]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:055][937]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:071][938]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:088][939]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:105][940]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:121][941]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:138][942]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:154][943]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:172][944]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:187][945]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:205][946]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:221][947]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:238][948]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:255][949]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:272][950]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:288][951]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:304][952]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:322][953]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:338][954]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:355][955]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:371][956]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:389][957]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:406][958]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:422][959]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:439][960]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:456][961]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:471][962]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:488][963]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:505][964]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:522][965]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:539][966]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:554][967]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:572][968]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:591][969]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:606][970]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:622][971]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:639][972]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:655][973]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:671][974]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:689][975]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:705][976]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:722][977]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:739][978]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:755][979]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:772][980]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:789][981]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:805][982]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:822][983]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:839][984]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:854][985]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:871][986]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:888][987]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:905][988]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:922][989]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:937][990]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:956][991]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:971][992]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.17:989][993]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:005][994]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:022][995]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:038][996]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:055][997]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:073][998]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:088][999]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:105][  0]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:122][  1]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:139][  2]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:156][  3]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:172][  4]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:189][  5]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:205][  6]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:221][  7]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:238][  8]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:255][  9]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:271][ 10]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:289][ 11]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:305][ 12]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:321][ 13]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:338][ 14]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:355][ 15]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:371][ 16]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:387][ 17]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:405][ 18]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:422][ 19]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:438][ 20]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:455][ 21]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:471][ 22]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:488][ 23]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:504][ 24]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:521][ 25]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:538][ 26]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:555][ 27]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:571][ 28]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:588][ 29]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:605][ 30]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:622][ 31]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:638][ 32]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:655][ 33]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:672][ 34]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:689][ 35]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:705][ 36]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:722][ 37]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:738][ 38]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:754][ 39]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:771][ 40]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:788][ 41]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:804][ 42]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:821][ 43]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:838][ 44]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:855][ 45]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:871][ 46]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:888][ 47]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:905][ 48]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:922][ 49]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:937][ 50]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:955][ 51]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:972][ 52]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.18:988][ 53]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:004][ 54]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:022][ 55]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:038][ 56]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:054][ 57]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:071][ 58]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:087][ 59]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:105][ 60]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:121][ 61]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:138][ 62]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:154][ 63]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:171][ 64]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:188][ 65]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:204][ 66]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:221][ 67]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:238][ 68]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:255][ 69]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:272][ 70]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:288][ 71]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:305][ 72]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:322][ 73]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:338][ 74]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:356][ 75]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:372][ 76]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:388][ 77]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:405][ 78]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:422][ 79]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:440][ 80]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:455][ 81]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:471][ 82]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:488][ 83]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:505][ 84]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:522][ 85]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:538][ 86]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:555][ 87]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:571][ 88]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:587][ 89]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:605][ 90]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:622][ 91]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:637][ 92]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:655][ 93]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:672][ 94]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:688][ 95]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:704][ 96]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:721][ 97]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:738][ 98]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:755][ 99]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:771][100]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:788][101]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:805][102]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:821][103]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:839][104]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:856][105]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:873][106]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:888][107]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:906][108]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:922][109]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:938][110]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:954][111]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:972][112]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.19:988][113]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:005][114]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:022][115]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:038][116]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:055][117]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:071][118]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:089][119]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:105][120]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:122][121]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:138][122]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:154][123]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:171][124]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:188][125]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:205][126]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:222][127]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:238][128]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:255][129]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:271][130]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:288][131]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:304][132]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:322][133]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:338][134]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:355][135]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:372][136]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:388][137]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:405][138]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:422][139]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:438][140]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:455][141]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:472][142]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:488][143]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:505][144]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:522][145]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:538][146]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:555][147]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:572][148]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:588][149]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:605][150]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:622][151]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:638][152]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:655][153]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:672][154]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:688][155]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:705][156]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:721][157]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:738][158]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:755][159]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:772][160]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:788][161]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:805][162]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:822][163]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:838][164]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:855][165]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:872][166]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:888][167]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:905][168]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:921][169]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:938][170]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:955][171]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:971][172]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.20:988][173]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:005][174]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:021][175]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:038][176]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:055][177]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:071][178]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:088][179]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:106][180]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:122][181]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:139][182]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:155][183]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:172][184]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:188][185]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:205][186]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:221][187]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:238][188]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:255][189]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:272][190]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:288][191]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:305][192]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:322][193]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:338][194]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:355][195]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:371][196]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:388][197]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:404][198]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:422][199]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:438][200]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:455][201]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:472][202]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:488][203]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:505][204]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:522][205]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:538][206]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:555][207]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:571][208]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:588][209]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:606][210]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:623][211]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:639][212]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:656][213]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:672][214]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:689][215]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:705][216]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:722][217]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:739][218]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:755][219]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:772][220]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:788][221]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:805][222]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:821][223]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:838][224]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:855][225]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:872][226]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:888][227]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:905][228]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:922][229]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:939][230]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:955][231]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:972][232]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.21:988][233]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:005][234]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:022][235]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:038][236]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:055][237]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:072][238]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:088][239]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:105][240]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:122][241]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:138][242]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:155][243]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:171][244]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:188][245]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:205][246]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:221][247]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:238][248]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:255][249]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:272][250]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:289][251]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:306][252]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:323][253]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:339][254]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:354][255]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:371][256]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:388][257]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:405][258]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:422][259]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:438][260]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:455][261]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:471][262]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:488][263]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.21.22:529][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-06.21.22:529][263]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.28-06.21.22:529][263]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.21.22:529][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.21.22:529][263]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.28-06.21.22:535][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-06.21.22:539][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.21.22:567][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-06.21.22:567][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.28-06.21.22:567][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.04.28-06.21.22:568][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.04.28-06.21.22:576][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.28-06.21.22:691][264]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.04.28-06.21.36:736][ 97]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.28-06.21.46:124][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.04.28-06.21.46:124][634]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.28-06.22.07:952][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.28-06.22.08:012][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.04.28-06.22.08:012][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.04.28-06.22.08:029][902]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.04.28-06.22.08:029][902]LogSavePackage: Moving '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/BP_ThirdPersonCharacter7DDD18F7473C178F170B74894BC76D10.tmp' to '../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.04.28-06.22.08:039][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.840 ms (total: 1.02 sec)
+[2026.04.28-06.22.08:107][902]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.28-06.22.08:107][902]LogContentValidation: Enabled validators:
+[2026.04.28-06.22.08:107][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.28-06.22.08:107][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.28-06.22.08:107][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.28-06.22.08:107][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.28-06.22.08:107][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.28-06.22.08:107][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.28-06.22.08:108][902]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.28-06.22.08:132][902]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../280/280_FeatureProject_Suenishi_Kafka/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.28-06.22.24:965][898]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.28-06.22.24:971][898]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCombatController.BP_ThirdPersonCombatController
+[2026.04.28-06.22.24:971][898]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.28-06.22.58:265][753]LogSlate: Window 'BP_ThirdPersonCombatController' being destroyed
+[2026.04.28-06.22.58:275][753]LogSlate: Window 'BP_ThirdPersonCombatController' being destroyed
+[2026.04.28-06.22.58:278][753]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.22.58:278][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.22.58:315][753]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.22.58:315][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.22.58:347][753]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.22.58:347][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.22.58:381][753]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.28-06.22.58:381][753]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.22.58:381][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.22.58:418][753]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.28-06.22.58:418][753]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.22.58:418][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.22.58:506][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.28-06.22.59:778][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.28-06.22.59:782][828]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.28-06.22.59:782][828]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.28-06.22.59:783][828]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 565 us (total: 3.998 ms)
+[2026.04.28-06.22.59:783][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.28-06.22.59:783][828]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.28-06.22.59:786][828]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.28-06.22.59:786][828]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 470 us (total: 1.362 ms)
+[2026.04.28-06.22.59:786][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003329s)
+[2026.04.28-06.22.59:786][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.003356s)
+[2026.04.28-06.22.59:823][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.28-06.22.59:824][828]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.28-06.22.59:826][828]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.28-06.22.59:826][828]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.28-06.22.59:826][828]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.28-06.22.59:826][828]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.28-06.22.59:827][828]LogWorldPartition: Display: WorldPartition initialize took 1.079 ms (total: 97.487 ms)
+[2026.04.28-06.22.59:827][828]LogPlayLevel: PIE: World Init took: (0.003169s)
+[2026.04.28-06.22.59:828][828]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.28-06.22.59:828][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.28-06.22.59:828][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.28-06.22.59:828][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.28-06.22.59:828][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.28-06.22.59:828][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.28-06.22.59:831][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.28-06.22.59:851][828]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.28-06.22.59:853][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.28-06.22.59:853][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.28-06.22.59:853][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.28-06.22.59:853][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.04.28-06.22.59:853][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.04.28-06.22.59:856][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.28-06.22.59:856][828]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.28-06.22.59:856][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.04.28-06.22.59:856][828]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_ThirdPerson'.
+[2026.04.28-06.22.59:856][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.28-06.22.59:860][828]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.28-06.22.59:863][828]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2026.04.27-23.22.59
+[2026.04.28-06.22.59:863][828]LogWorld: Bringing up level for play took: 0.002941
+[2026.04.28-06.22.59:865][828]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.04.28-06.22.59:869][828]PIE: Server logged in
+[2026.04.28-06.22.59:872][828]PIE: Play in editor total start time 0.09 seconds.
+[2026.04.28-06.22.59:873][828]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.22.59:890][829]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.22.59:919][829]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.28-06.22.59:954][830]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.22.59:986][831]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:001][832]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:018][833]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:035][834]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:052][835]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:068][836]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:085][837]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:102][838]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:118][839]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:135][840]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:151][841]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:168][842]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:185][843]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:202][844]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:218][845]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:235][846]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:255][847]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:268][848]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:286][849]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:303][850]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:319][851]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:335][852]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:353][853]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:368][854]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:385][855]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:402][856]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:418][857]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:435][858]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:451][859]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:468][860]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:486][861]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:503][862]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:519][863]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:536][864]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:552][865]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:569][866]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:586][867]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:602][868]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:618][869]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:635][870]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:651][871]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:668][872]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:686][873]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:702][874]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:719][875]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:735][876]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:752][877]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:768][878]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:794][879]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:810][880]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:827][881]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:844][882]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:861][883]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:878][884]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:895][885]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:911][886]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:927][887]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:944][888]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:961][889]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:977][890]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.00:993][891]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:010][892]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:027][893]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:044][894]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:061][895]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:077][896]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:093][897]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:110][898]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:127][899]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:144][900]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:161][901]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:178][902]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:193][903]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:210][904]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:227][905]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:243][906]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:261][907]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:278][908]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:294][909]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:311][910]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:327][911]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:344][912]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:361][913]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:377][914]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:394][915]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:411][916]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:428][917]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:444][918]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:461][919]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:477][920]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:494][921]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:510][922]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:527][923]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:545][924]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:561][925]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:577][926]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:594][927]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:610][928]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:627][929]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:644][930]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:660][931]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:677][932]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:693][933]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:710][934]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:727][935]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:743][936]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:761][937]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:777][938]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:795][939]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:811][940]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:827][941]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:844][942]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:860][943]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:877][944]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:894][945]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:911][946]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:927][947]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:944][948]LogBlueprintUserMessages: [BP_TBCharacter_C_UAID_AC91A137A267C1D502_2144363391] 3000.0
+[2026.04.28-06.23.01:969][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-06.23.01:969][948]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.28-06.23.01:969][948]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.28-06.23.01:970][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.23.01:970][948]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.28-06.23.01:973][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.28-06.23.01:980][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.28-06.23.02:013][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.28-06.23.02:013][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.28-06.23.02:013][948]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.04.28-06.23.02:016][948]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.04.28-06.23.02:023][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.28-06.23.02:143][949]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.04.28-06.23.07:252][244]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.04.28-06.23.07:252][244]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
